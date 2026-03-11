@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Akashdeep Singh👋
 
-<!--
-**akashjaura16/akashjaura16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **M.S. Information Technology** — Deakin University, Melbourne  
+Cloud Computing Specialization | Distinction Grade
 
-Here are some ideas to get you started:
+🎓 **B.Tech Computer Science & Engineering** — 8.84 GPA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Currently
+- Completing the **90 Days of DevOps** challenge
+- Building skills in Linux, Git, Shell Scripting, Python, Docker, CI/CD
+
+---
+
+## 💼 Experience
+- 👨‍🏫 **Coding Tutor** — 6 months, Mohali
+- 🛠️ **Open Source Contributor** — 50+ hours on [sleepTrackerApp](https://github.com/akashjaura16/sleepTrackerApp)
+- 🤖 **AI Team** — Deakin Software Engineering Club (Frontend & Workout features)
+- 🇦🇺 **Member** — Australian Computer Society (ACS)
+
+---
+
+## 🛠️ Tools & Skills
+`Python` `Bash` `Git` `GitHub Actions` `Linux` `JavaScript` `React` `Docker`
+
+---
+
+## 📌 Key Repos
+- [90 Days of DevOps](https://github.com/akashjaura16/90DaysOfDevOps)
+- [sleepTrackerApp](https://github.com/akashjaura16/sleepTrackerApp)
+- [SecureShift](https://github.com/akashjaura16/SecureShift)
+---
+
+## 📫 Reach Me
+- 🔗 LinkedIn: [Akashdeep Singh](https://www.linkedin.com/in/akashjaura/)
+- 📧 Email: akashjaura016@gmail.com
+
+---
+
+## 📊 GitHub Stats
+![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashjaura16&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashjaura16&layout=compact&theme=tokyonight&hide_border=true)
