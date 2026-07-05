@@ -1,7 +1,7 @@
 # Hi, I'm Akashdeep Singh👋
 
 🎓 **M.S. Information Technology** — Deakin University, Melbourne  
-Cloud Computing Specialization | Distinction Grade
+Cloud Computing Specialization | Distinction Grade  
 
 🎓 **B.Tech Computer Science & Engineering** — 8.84 GPA
 
@@ -15,7 +15,7 @@ Cloud Computing Specialization | Distinction Grade
 
 ## 💼 Experience
 - 👨‍🏫 **Coding Tutor** — 6 months, Mohali
-- 🛠️ **Open Source Contributor** — 50+ hours on [sleepTrackerApp](https://github.com/akashjaura16/sleepTrackerApp)
+- 🛠️ **Open Source Contributor** — 50+ hours on [sleepTrackerApp](https://github.com/SinghAkashdeep16/sleepTrackerApp)
 - 🤖 **AI Team** — Deakin Software Engineering Club (Frontend & Workout features)
 - 🇦🇺 **Member** — Australian Computer Society (ACS)
 
@@ -27,9 +27,10 @@ Cloud Computing Specialization | Distinction Grade
 ---
 
 ## 📌 Key Repos
-- [90 Days of DevOps](https://github.com/akashjaura16/90DaysOfDevOps)
-- [sleepTrackerApp](https://github.com/akashjaura16/sleepTrackerApp)
-- [SecureShift](https://github.com/akashjaura16/SecureShift)
+- [90 Days of DevOps](https://github.com/SinghAkashdeep16/90DaysOfDevOps)
+- [sleepTrackerApp](https://github.com/SinghAkashdeep16/sleepTrackerApp)
+- [SecureShift](https://github.com/SinghAkashdeep16/SecureShift)
+
 ---
 
 ## 📫 Reach Me
@@ -39,5 +40,5 @@ Cloud Computing Specialization | Distinction Grade
 ---
 
 ## 📊 GitHub Stats
-![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashjaura16&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashjaura16&layout=compact&theme=tokyonight&hide_border=true)
+![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SinghAkashdeep16&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SinghAkashdeep16&layout=compact&theme=tokyonight&hide_border=true)
