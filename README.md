@@ -40,5 +40,5 @@ Cloud Computing Specialization | Distinction Grade
 ---
 
 ## 📊 GitHub Stats
-![Akash's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SinghAkashdeep16&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SinghAkashdeep16&layout=compact&theme=tokyonight&hide_border=true)
+![Akash's GitHub Stats](https://github-stats-extended.vercel.app/api?username=SinghAkashdeep16&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=SinghAkashdeep16&layout=compact&theme=tokyonight&hide_border=true)
